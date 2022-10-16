@@ -1,5 +1,6 @@
 -- Active: 1664514797713@@localhost@3306@ruth
 -- Creating DATABASE
+-- The create database command is used to create databases
 CREATE DATABASE Transport_system;
 
 CREATE TABLE passenger(
